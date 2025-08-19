@@ -3,8 +3,10 @@
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-C5EE0E?style=for-the-badge)](https://mamun1113.github.io/)
 [![LeetCode](https://img.shields.io/badge/💡%20LeetCode-Profile-FFA116?style=for-the-badge)](https://leetcode.com/u/Mamun1113/)
 [![Google Scholar](https://img.shields.io/badge/📘%20Google%20Scholar-View-3983FE?style=for-the-badge)](https://scholar.google.com/citations?hl=en&user=pi_HcgYAAAAJ)
-[![Kaggle](https://img.shields.io/badge/📊%20Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mamun1113)
+[![Kaggle](https://img.shields.io/badge/%20Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mamun1113)
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mamun1113/)
+[![Blogger](https://img.shields.io/badge/%20Blogger-Blog-F57D00?style=for-the-badge&logo=blogger&logoColor=white)](https://mamuntalks.blogspot.com/)
+
 
 ---
 
